@@ -1,6 +1,74 @@
 # Djowda-Platform
 This repository serves as the central hub for the Djowda project, providing an overview of the platform's purpose, architecture, and technical documentation. It includes links to each sub-repository, user guides, and setup instructions.
 
+<!-- Grid of Apps -->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Moses-Code-Dev/Djowda-UserApp">
+        <img src="./Asset/User_App2.png" alt="User App" width="150"/>
+      </a>
+      <br><a href="https://github.com/Moses-Code-Dev/Djowda-UserApp">User App</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Moses-Code-Dev/Djowda-DeliveryApp">
+        <img src="./Asset/Delivery_Men_App2.png" alt="Delivery Men App" width="150"/>
+      </a>
+      <br><a href="https://github.com/Moses-Code-Dev/Djowda-DeliveryApp">Delivery Men App</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Moses-Code-Dev/Djowda-StoreApp">
+        <img src="./Asset/Store_App2.png" alt="Store App" width="150"/>
+      </a>
+      <br><a href="https://github.com/Moses-Code-Dev/Djowda-StoreApp">Store App</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Moses-Code-Dev/Djowda-AdminApp">
+        <img src="./Asset/Store_Admin_App2.png" alt="Store Admin App" width="150"/>
+      </a>
+      <br><a href="https://github.com/Moses-Code-Dev/Djowda-AdminApp">Store Admin App</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Moses-Code-Dev/Djowda-TransportApp">
+        <img src="./Asset/Transport_App2.png" alt="Transport App" width="150"/>
+      </a>
+      <br><a href="https://github.com/Moses-Code-Dev/Djowda-TransportApp">Transport App</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Moses-Code-Dev/Djowda-RestaurantsApp">
+        <img src="./Asset/Restaurants_App2.png" alt="Restaurants App" width="150"/>
+      </a>
+      <br><a href="https://github.com/Moses-Code-Dev/Djowda-RestaurantsApp">Restaurants App</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Moses-Code-Dev/Djowda-FactoryApp">
+        <img src="./Asset/Factory_App2.png" alt="Factory App" width="150"/>
+      </a>
+      <br><a href="https://github.com/Moses-Code-Dev/Djowda-FactoryApp">Factory App</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Moses-Code-Dev/Djowda-WholesalerApp">
+        <img src="./Asset/Whole_Seller_App2.png" alt="Whole Seller App" width="150"/>
+      </a>
+      <br><a href="https://github.com/Moses-Code-Dev/Djowda-WholesalerApp">Whole Seller App</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Moses-Code-Dev/Djowda-FarmerApp">
+        <img src="./Asset/Farmer_App2.png" alt="Farmer App" width="150"/>
+      </a>
+      <br><a href="https://github.com/Moses-Code-Dev/Djowda-FarmerApp">Farmer App</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Moses-Code-Dev/Djowda-SeedProviderApp">
+        <img src="./Asset/App_for_Seed_Providers2.png" alt="App for Seed Providers" width="150"/>
+      </a>
+      <br><a href="https://github.com/Moses-Code-Dev/Djowda-SeedProviderApp">App for Seed Providers</a>
+    </td>
+  </tr>
+</table>
+
 ![Djowda Platform](src/Djowda%20Platform.png)
 
 # The Parallel Web
