@@ -325,3 +325,14 @@ Data is a powerful tool that can significantly enhance the efforts of government
 
 Governments and NGOs face significant obstacles in their efforts to tackle hunger and improve food security. However, by leveraging comprehensive data and advanced analytics, these challenges can be overcome. The Djowda System provides the necessary tools and insights to enhance resource allocation, inform policy decisions, and optimize program implementation. By supporting governments and NGOs with robust data solutions, Djowda contributes to creating a world where no one goes hungry and everyone has access to nutritious food.
 
+![Djowda Platform](src/Djowda%20img2.png)
+
+## II. Solution
+
+### 1. Overview
+
+The Djowda system is a suite of interconnected apps, designed to revolutionize the food distribution chain with the mission of addressing hunger, enhancing food security, and regulating and automating the entire chain. By providing a comprehensive, data-driven, and transparent ecosystem, Djowda aims to foster collaboration and efficiency among all stakeholders.
+
+At its core, Djowda is a friendly, collaborative food data-sharing system that ensures full transparency across the food distribution chain. This system allows all participants, from farmers to retailers, to access valuable data insights, optimize their operations, and make informed decisions. Alongside these data-sharing capabilities, Djowda offers a range of functionalities that directly address the challenges and inefficiencies within the food supply chain.
+
+Key components and features of the Djowda system will be discussed in detail in the sections below, highlighting its potential to create a more equitable, sustainable, and resilient food system.
